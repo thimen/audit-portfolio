@@ -2,7 +2,7 @@
 
 Independent smart contract security researcher, Stockholm. 20 valid findings (7 High, 13 Medium) in 10 public contests on Sherlock, Code4rena and Cantina since March 2025.
 
-Profiles: [Sherlock](https://audits.sherlock.xyz/watson/thimthor) · [Code4rena](https://code4rena.com/@thimthor) · [thimthor.com](https://thimthor.com) · thim@thimthor.com
+Profiles: [Sherlock](https://audits.sherlock.xyz/watson/thimthor) · [Code4rena](https://code4rena.com/@thimthor) · [Cantina](https://cantina.xyz/u/thimen24) · [thimthor.com](https://thimthor.com) · thim@thimthor.com
 
 ## Contests
 
