@@ -1,4 +1,4 @@
-# Thim Thor — audit portfolio
+# Thim Thor audit portfolio
 
 Independent smart contract security researcher, Stockholm. 20 valid findings (7 High, 13 Medium) in 10 public contests on Sherlock, Code4rena and Cantina since March 2025.
 
