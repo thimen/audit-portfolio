@@ -67,4 +67,5 @@ Titles are from my submissions; severity is the final judged severity.
 - M · `NFTManager::tokenURI` reads NFTManager storage instead of Diamond storage and reverts
 
 **Revert StableSwap Hooks** (Cantina)
-- 1 High, 1 Medium. Cantina does not publish finding titles for this competition.
+- H · Native ETH `removeLiquidity` reentrancy prices swaps with stale reserves
+- M · Exact-output swaps can round low-decimal input to zero
