@@ -31,8 +31,6 @@ For audits or anything else, reach me at thim@thimthor.com or [thimthor.com](htt
 
 ## All valid findings
 
-Titles are from my submissions. Severity is the final judged severity.
-
 ### Ekubo (Code4rena)
 - [M] Oracle data corruption via storage key collision (`token << 32 | index` collides with another token's `Counts` slot)
 - [M] Router does not check whether an exact-out single swap was partially filled
