@@ -20,8 +20,6 @@ Profiles: [Sherlock](https://audits.sherlock.xyz/watson/thimthor) · [Code4rena]
 | [Revert StableSwap Hooks](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/leaderboard) | Cantina | May 2026 | 58th | 1 | 1 | |
 | **10 contests** | | | | **7** | **13** | |
 
-Ranks and severities are as published by each platform. Sherlock results: `https://audits.sherlock.xyz/api/stats/contest_results/<id>`.
-
 ## Write-ups
 
 | Finding | Severity |
