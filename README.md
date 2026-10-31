@@ -1,6 +1,6 @@
-# thimthor audits
+# Thim Thor audit portfolio
 
-I'm an independent smart contract security researcher.
+I'm an independent smart contract security researcher based in Stockholm. Since March 2025 I have participated in 10 public audit contests on Sherlock, Code4rena and Cantina, with 20 findings (7 High, 13 Medium).
 
 You can find me on [Sherlock](https://audits.sherlock.xyz/watson/thimthor), [Code4rena](https://code4rena.com/@thimthor) and [Cantina](https://cantina.xyz/u/thimen24).
 
