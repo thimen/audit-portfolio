@@ -1,10 +1,10 @@
 # D3 liquidation uses the manipulable DexV2 spot price to weight the liquidation penalty
 
-**Fluid DEX v2** · Sherlock · January 2026 · judged **Medium** · contest rank 7th  
+**Fluid DEX v2**, Sherlock, January 2026, judged **Medium**, contest rank 7th  
 Contest page: https://audits.sherlock.xyz/contests/1225  
 Audited commit: `bd466082e02cb70b2746e882e544ba99cb328fc5` (https://github.com/sherlock-audit/2026-01-fluid-dex-v2)
 
-Submission as filed. Links into the private contest fork are replaced by file references.
+This is the submission I sent in. Links into the private contest fork are replaced by file references.
 
 ---
 ## Summary

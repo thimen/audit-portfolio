@@ -1,10 +1,10 @@
 # `FeeWalker::up` under-credits compounding fees by a factor of `key.width()` on non-visited nodes
 
-**Ammplify** · Sherlock · September 2025 · judged **High** · contest rank 23rd  
+**Ammplify**, Sherlock, September 2025, judged **High**, contest rank 23rd  
 Contest page: https://audits.sherlock.xyz/contests/1054  
 Audited commit: `a8b3f0caeac0422ad298368463dea61c92c03b7e`
 
-Submission as filed. Links into the private contest fork are replaced by file references.
+This is the submission I sent in. Links into the private contest fork are replaced by file references.
 
 ---
 ## Summary
