@@ -22,17 +22,15 @@ Profiles: [Sherlock](https://audits.sherlock.xyz/watson/thimthor) · [Code4rena]
 
 Ranks and severities are as published by each platform. Sherlock results: `https://audits.sherlock.xyz/api/stats/contest_results/<id>`.
 
-## Write-ups with PoC
+## Write-ups
 
-Submission text as filed, plus the Foundry test. Each PoC was re-run on 2026-10-31 against the audited commit; observed output is in the write-up.
-
-| Finding | Severity | PoC |
-|---|---|---|
-| [Fluid DEX v2 · D3 liquidation uses the manipulable DexV2 spot price to weight the liquidation penalty](findings/fluid-dex-v2-d3-liquidation-spot-price/) | Medium | [test](findings/fluid-dex-v2-d3-liquidation-spot-price/D3LiquidationPenaltyManipulationPoC.t.sol) |
-| [Metric · Premature E8 confidence flooring erases configured swap fees](findings/metric-e8-confidence-flooring/) | Medium, selected report | [test](findings/metric-e8-confidence-flooring/AnchoredConfidenceFlooringPoC.t.sol) |
-| [Ammplify · `FeeWalker::up` under-credits compounding fees by `key.width()` on non-visited nodes](findings/ammplify-fee-walker-width/) | High | code reasoning, one-line fix |
-| Ekubo · [Oracle data corruption via storage key collision](https://code4rena.com/reports/2025-11-ekubo#m-01-oracle-data-corruption-via-storage-key-collision) | Medium | in report |
-| Ekubo · [Router does not check whether an exact-out swap was partial](https://code4rena.com/reports/2025-11-ekubo#m-04-router-does-not-check-if-exact-out-single-swap-was-partial-leading-to-unexpected-results-for-the-users) | Medium, one of two valid reports | in report |
+| Finding | Severity |
+|---|---|
+| [Fluid DEX v2 · D3 liquidation uses the manipulable DexV2 spot price to weight the liquidation penalty](findings/fluid-dex-v2-d3-liquidation-spot-price/) | Medium |
+| [Metric · Premature E8 confidence flooring erases configured swap fees](findings/metric-e8-confidence-flooring/) | Medium, selected report |
+| [Ammplify · `FeeWalker::up` under-credits compounding fees by `key.width()` on non-visited nodes](findings/ammplify-fee-walker-width/) | High |
+| Ekubo · [Oracle data corruption via storage key collision](https://code4rena.com/reports/2025-11-ekubo#m-01-oracle-data-corruption-via-storage-key-collision) | Medium |
+| Ekubo · [Router does not check whether an exact-out swap was partial](https://code4rena.com/reports/2025-11-ekubo#m-04-router-does-not-check-if-exact-out-single-swap-was-partial-leading-to-unexpected-results-for-the-users) | Medium, one of two valid reports |
 
 ## All valid findings
 

@@ -4,7 +4,7 @@
 Contest page: https://audits.sherlock.xyz/contests/1054  
 Audited commit: `a8b3f0caeac0422ad298368463dea61c92c03b7e`
 
-Submission text as filed, with links to the private contest fork replaced by file references.
+Submission as filed. Links into the private contest fork are replaced by file references.
 
 ---
 ## Summary
@@ -70,7 +70,7 @@ Visited nodes (leaves/some siblings) are fine because they use `chargeTrueFeeRat
 
 ## PoC
 
-No PoC was submitted. The root cause is a single missing multiplier; the diff below is the fix.
+No PoC was submitted.
 
 ## Mitigation
 
