@@ -1,7 +1,8 @@
-# `FeeWalker::up` under-credits compounding fees by a factor of `key.width()` on non-visited nodes
+# `FeeWalker::up` will undercalculate `compoundingLiq` by a factor of `key.width()` for all unvisited nodes
 
 **Ammplify**, Sherlock, September 2025, judged **High**, contest rank 23rd  
 Contest page: https://audits.sherlock.xyz/contests/1054  
+Credited on H-12, Missing width scaling in FeeWalker.up (non-visited) undercredits compounding maker fees  
 Audited commit: `a8b3f0caeac0422ad298368463dea61c92c03b7e`
 
 This is the submission I sent in. Links into the private contest fork are replaced by file references.

@@ -2,6 +2,7 @@
 
 **Metric**, Sherlock, July 2026, judged **Medium (selected report)**, contest rank 14th  
 Contest page: https://audits.sherlock.xyz/contests/1279  
+Issue M-9 in the contest report  
 Audited commit: `0d480892a1647e46c3775c95da400a39888a7c78`
 
 This is the submission I sent in. Links into the private contest fork are replaced by file references.
